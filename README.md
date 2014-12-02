@@ -3,7 +3,7 @@ Apple's Objective-C Runtime - Version 4 - 437.1
 
 [![Issues](http://img.shields.io/github/issues/macmade/OBJC4-437.1-Runtime.svg?style=flat)](https://github.com/macmade/OBJC4-437.1-Runtime/issues)
 ![Status](https://img.shields.io/badge/status-inactive-lightgray.svg?style=flat)
-![License](https://img.shields.io/badge/license-apsl-lightgray.svg?style=flat)
+![License](https://img.shields.io/badge/license-apsl-brightgreen.svg?style=flat)
 [![Contact](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)
 
 About
